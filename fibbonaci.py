@@ -1,4 +1,4 @@
-n=int(raw_input())
+n=5
 x=1
 y=1
 for i in range(1,n+1):
